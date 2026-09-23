@@ -19,7 +19,7 @@ class Student {
     }
 }
 
-public class Main {
+public class Studentservice {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
